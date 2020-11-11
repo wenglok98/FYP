@@ -39,6 +39,8 @@ public class Home extends AppCompatActivity implements NavigationView.OnNavigati
     FirebaseAuth fAuth;
     FirebaseFirestore fStore = FirebaseFirestore.getInstance();
 
+    String ababababa;
+
 
     private static final String TAG = "Home";
 
